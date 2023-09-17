@@ -1,2 +1,6 @@
 recovery file for openwrt
 tftpd flash
+
+useful links:
+https://github.com/ashegoulding/tp-link_c20-v5.dev
+https://www.computerbytes.co.nz/blog/unbricking-a-tp-link-router
